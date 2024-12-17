@@ -6,7 +6,8 @@ package marrale_graphic_interface;
 
 /**
  *
- * @author 5INFC
+ * Marrale Lorenzo
+ *
  */
 public class Binario_conversione extends javax.swing.JFrame {
 
